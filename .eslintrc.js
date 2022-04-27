@@ -12,7 +12,7 @@ module.exports = {
   plugins: ['vue', '@typescript-eslint'],
   rules: {
     'no-empty': 2,
-      // 禁用 console
-      "no-console": 0,
+    // 禁用 console
+    'no-console': 0
   }
 };
