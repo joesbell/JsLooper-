@@ -1,1 +1,1 @@
-const a = 'hellowrold'
+const a = 'hellowrold';
