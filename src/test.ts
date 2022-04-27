@@ -4,5 +4,5 @@ class GetObj<T> {
     return this.name + ''
   }
 }
-const a = '567890'
+const a = '324676'
 // const obj = new GetObj('joes')
