@@ -13,6 +13,6 @@ module.exports = {
   rules: {
     'no-empty': 2,
     // 禁用 console
-    'no-console': 0
+    'no-console': 2
   }
 };
