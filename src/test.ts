@@ -4,6 +4,6 @@ class GetObj<T> {
     return this.name + ''
   }
 }
-const a = '324676'
-df
-// const obj = new GetObj('joes')
+
+const obj = new GetObj('joe')
+sdh
