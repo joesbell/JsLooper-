@@ -11,6 +11,8 @@ module.exports = {
   },
   plugins: ['vue', '@typescript-eslint'],
   rules: {
-    'no-empty':2
+    'no-empty': 2,
+      // 禁用 console
+      "no-console": 0,
   }
 };

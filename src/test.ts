@@ -6,3 +6,4 @@ class GetObj<T> {
 }
 
 const obj = new GetObj('joe');
+console.log('132423');
