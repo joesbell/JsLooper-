@@ -5,4 +5,5 @@ class GetObj<T> {
   }
 }
 const a = '324676'
+df
 // const obj = new GetObj('joes')
